@@ -6,9 +6,5 @@
   {
     "repository": "usmcamgrimm/vendor_lge_h815",
     "target_path": "vendor/lge/h815"
-  },
-  {
-    "repository": "usmcamgrimm/vendor_lge_g4-common",
-    "target_path": "vendor/lge/g4-common"
   }
 ]
